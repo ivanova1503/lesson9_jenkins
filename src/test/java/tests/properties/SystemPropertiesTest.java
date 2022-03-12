@@ -52,7 +52,7 @@ public class SystemPropertiesTest {
         //  gradle clean properties_tests -Dbrowser=chrome
         //  chrome
     }
-/*
+
     @Test
     @Tag("properties")
     void someTest6() {
@@ -71,7 +71,7 @@ public class SystemPropertiesTest {
 //        Configuration.browserVersion = System.getProperty("version", "91");
 //        Configuration.browserSize = System.getProperty("browserSize", "300x300");
 //    }
-
+/*
     @Test
     @Tag("properties")
     void someTest7() {
